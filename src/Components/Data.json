@@ -1,0 +1,883 @@
+{
+  "coffee": [
+    {
+      "Title": "Vanilla Latte",
+      "File": "https://arahcoffee.co.id/wp-content/uploads/2022/03/Vanilla-Latte.jpg",
+      "Discription": "Indulge in the rich, creamy taste of our Vanilla Latte, a classic coffeehouse favorite. This delightful beverage combines the smooth, robust flavor of freshly brewed espresso with the velvety texture of steamed milk. Infused with the sweet and aromatic essence of premium vanilla syrup, each sip offers a perfect balance of coffee and sweetness. Our Vanilla Latte is a harmonious blend of bold espresso and creamy milk, complemented by the sweet, fragrant notes of vanilla. The espresso provides a rich, full-bodied base, while the steamed milk adds a silky smoothness that enhances the overall drinking experience. The vanilla syrup adds a touch of sweetness and a delightful aroma, making this beverage a comforting and satisfying choice.",
+      "Select": "Coffee",
+      "Rating": "4.9",
+      "Cost": "399",
+      "Ingredients": "Freshly brewed espresso, Steamed milk, Vanilla syrup, Topped with a light froth",
+      "id": "bdec"
+    },
+    {
+      "Title": "Espresso",
+      "File": "https://img.freepik.com/free-photo/cup-coffee_23-2148178337.jpg?uid=R141745355&ga=GA1.1.383475458.1707327698&semt=sph",
+      "Discription": "Indulge in the pure essence of coffee with our expertly crafted Espresso. This rich and intense shot of coffee is the foundation of many beloved beverages, yet it stands proud on its own. Our espresso is meticulously brewed to perfection, delivering a concentrated burst of robust flavor and velvety crema. Perfect for those who appreciate the art of coffee in its most unadulterated form. Certainly! Here’s a detailed description and list of ingredients for an espresso that you can use on your coffee shop product details webpage: Espresso  Description: Indulge in the pure essence of coffee with our expertly crafted Espresso. This rich and intense shot of coffee is the foundation of many beloved beverages, yet it stands proud on its own. Our espresso is meticulously brewed to perfection, delivering a concentrated burst of robust flavor and velvety crema. Perfect for those who appreciate the art of coffee in its most unadulterated form.  Feel free to customize this description according to the specific features of your coffee shop's espresso, such as the origin of the coffee beans, any special roasting techniques, or unique preparation methods you might use.",
+      "Select": "Coffee",
+      "Rating": "4.1",
+      "Cost": "299",
+      "Ingredients": "Freshly ground coffee beans, Water",
+      "id": "0558"
+    },
+    {
+      "Title": "Grilled Sandwich",
+      "File": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/01/grilled-sandwich-4.jpg",
+      "Discription": "Indulge in our classic Grilled Cheese Sandwich, a perfect blend of gooey, melted cheese and crispy, golden-brown bread. Each bite promises comfort and delight, making it an ideal choice for a cozy meal at our coffee shop. Whether you’re pairing it with a hot cup of coffee or enjoying it on its own, our Grilled Cheese Sandwich is sure to satisfy your cravings.",
+      "Select": "Sandwich",
+      "Rating": "4.8",
+      "Cost": "249",
+      "Ingredients": "Artisan bread, Cheddar cheese, Mozzarella cheese, Butter, Optional: Tomato slices, Bacon, Avocado",
+      "id": "2d4e"
+    },
+    {
+      "id": "48bd",
+      "Title": "Coffee Ice cream",
+      "File": "https://www.seattlesbest.com/sites/default/files/recipes_crafts/Coffee_Ice_Cream_Floats.png",
+      "Discription": "Indulge in the rich and creamy delight of our Coffee Ice Cream, crafted to perfection for coffee lovers. This luxurious treat combines the robust flavor of freshly brewed coffee with the smooth texture of premium ice cream, offering a delightful escape with every scoop. Perfect for a refreshing dessert on a warm day or a delightful treat anytime, our Coffee Ice Cream is sure to satisfy your sweet tooth and caffeine cravings all at once.",
+      "Select": "Coffee",
+      "Rating": "4.5",
+      "Cost": "399",
+      "Ingredients": "Freshly Brewed Coffee, Heavy Cream, Whole Milk, Egg Yolks, Sugar, Vanilla Extract"
+    },
+    {
+      "id": "546f",
+      "Title": "Frozen Waffles",
+      "File": "https://www.foodbanjo.com/wp-content/uploads/2023/09/air-fryer-frozen-waffles-1838-1200-500x500.jpg",
+      "Discription": "Our frozen waffles are a perfect blend of crispy on the outside and fluffy on the inside, offering a delightful breakfast or snack option. Made with high-quality ingredients, these waffles are quick and easy to prepare, providing a delicious and convenient treat that can be enjoyed with your favorite toppings, such as fresh fruits, syrup, or a dollop of whipped cream.",
+      "Select": "Waffles",
+      "Rating": "4.2",
+      "Cost": "249",
+      "Ingredients": "Flour, sugar, eggs, milk, butter, baking powder, salt, vanilla extract"
+    },
+    {
+      "id": "0498",
+      "Title": "Chocolate Waffles",
+      "File": "https://www.allrecipes.com/thmb/U0n3YwZoX0m2-D-WnHHMQBTck6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2900185-bfc27b331af742e3b79bd5996fe2565e.jpg",
+      "Discription": "Indulge in our decadent chocolate waffles, a perfect blend of rich cocoa and fluffy batter. Each waffle is expertly crafted to offer a crispy exterior with a soft, melt-in-your-mouth interior. Ideal for breakfast or a delightful dessert, these waffles are sure to satisfy your chocolate cravings.",
+      "Select": "Waffles",
+      "Rating": "4.8",
+      "Cost": "299",
+      "Ingredients": "All-purpose flour, cocoa powder, sugar, baking powder, salt, eggs, milk, butter, vanilla extract, chocolate chips."
+    },
+    {
+      "id": "617b",
+      "Title": "Oat milk latte",
+      "File": "https://thebigmansworld.com/wp-content/uploads/2021/03/oat-milk-latte4-500x500.jpg",
+      "Discription": "Experience the rich and creamy delight of our Oat Milk Latte, a perfect blend of smooth espresso and velvety oat milk. This dairy-free alternative offers a subtly sweet and nutty flavor, providing a comforting and satisfying beverage that's gentle on the stomach and environmentally friendly. Ideal for those seeking a plant-based option without compromising on taste and texture.",
+      "Select": "Coffee",
+      "Rating": "4.6",
+      "Cost": "249",
+      "Ingredients": "Espresso, Oat Milk, Water, Natural Flavors"
+    },
+    {
+      "id": "7cbd",
+      "Title": "Iced shaken espresso",
+      "File": "https://www.mybakingaddiction.com/wp-content/uploads/2023/10/brown-sugar-iced-shaken-espresso-hero.jpg",
+      "Discription": "Our Iced Shaken Espresso is a refreshing and invigorating blend, perfect for a hot day. It features rich espresso, expertly shaken to create a frothy, chilled drink that highlights the robust coffee flavors. Lightly sweetened and served over ice, it's a delightful treat for any coffee lover.",
+      "Select": "Coffee",
+      "Rating": "4.2",
+      "Cost": "299",
+      "Ingredients": "Espresso shots, ice, simple syrup, water, milk (optional), flavored syrups (optional, e.g., vanilla, caramel, hazelnut)"
+    },
+    {
+      "id": "e7ec",
+      "Title": "cappuccino Coffee",
+      "File": "https://www.netmeds.com/images/cms/wysiwyg/blog/Post/2018/10/coffee_its_benefits_898_1_.jpg",
+      "Discription": "A cappuccino is a classic coffee drink that blends equal parts of espresso, steamed milk, and frothed milk. This delightful beverage is known for its rich and robust flavor, complemented by the creamy texture of the milk. Perfect for a morning boost or an afternoon treat, a cappuccino offers a harmonious balance of strong coffee and smooth milk, often topped with a light dusting of cocoa powder or cinnamon for an added touch of indulgence.",
+      "Select": "Coffee",
+      "Rating": "4.5",
+      "Cost": "299",
+      "Ingredients": "Espresso, Steamed Milk, Frothed Milk, Cocoa Powder (optional), Cinnamon (optional)"
+    },
+    {
+      "id": "90a8",
+      "Title": "Iced Mocha Cookie Crumble Latte",
+      "File": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGUZP0_G-IRkNmaq06yIAZPKDu7_klYBzZQ&s",
+      "Discription": "Indulge in the rich and creamy Iced Mocha Cookie Crumble Latte, a delightful blend of smooth espresso, velvety chocolate, and crunchy cookie crumbles. Topped with a swirl of whipped cream and a sprinkle of chocolate cookie crumbles, this refreshing treat is perfect for satisfying your sweet tooth and coffee cravings.",
+      "Select": "Coffee",
+      "Rating": "4.6",
+      "Cost": "349",
+      "Ingredients": "Espresso, milk, chocolate syrup, cookie crumbles, whipped cream, ice"
+    },
+    {
+      "id": "56f2",
+      "Title": "Stardust Macchiato",
+      "File": "https://s3-media0.fl.yelpcdn.com/bphoto/Ikrvo_7uBYUqwbfzuVF6lg/348s.jpg",
+      "Discription": "The Stardust Macchiato is a celestial blend of rich espresso and creamy steamed milk, topped with a delicate drizzle of caramel and a sprinkle of edible glitter. Perfectly balanced and irresistibly smooth, this enchanting beverage will transport you to a galaxy of flavor with every sip",
+      "Select": "Coffee",
+      "Rating": "4.2",
+      "Cost": "299",
+      "Ingredients": "Espresso, steamed milk, caramel drizzle, edible glitter"
+    },
+    {
+      "id": "5180",
+      "Title": "Basil Tomato Mozzarella Cheese Sandwich",
+      "File": "https://static.onecms.io/wp-content/uploads/sites/19/2011/07/06/summer-tomato-mozzarella-basil-panini-ck-x.jpg",
+      "Discription": "The Basil Tomato Mozzarella Cheese Sandwich is a delicious and refreshing combination of fresh basil, ripe tomatoes, and creamy mozzarella cheese, all layered between slices of artisan bread and lightly drizzled with balsamic glaze. Perfect for a light lunch or a tasty snack, this sandwich offers a burst of Mediterranean flavors in every bite.",
+      "Select": "Sandwich",
+      "Rating": "4.7",
+      "Cost": "359",
+      "Ingredients": "Artisan bread, fresh basil leaves, ripe tomatoes, mozzarella cheese, balsamic glaze, olive oil, salt, pepper"
+    },
+    {
+      "id": "d4c8",
+      "Title": "Bake In Pesto Veggie Sourdough Sandwich",
+      "File": "https://www.eatingwell.com/thmb/VMxbow8YU-1Ac3MlveW3neQPgfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grilled-veggie-tofu-and-pesto-sandwich-62d31ca15bc241579e2ddaec38e06e1b.jpg",
+      "Discription": "Indulge in our delicious Bake In Pesto Veggie Sourdough SW Sandwich, crafted with love and packed with vibrant flavors. This sandwich features a hearty combination of fresh, roasted vegetables and creamy pesto, all nestled between slices of our artisan sourdough bread. Perfectly grilled to a golden crisp, it’s a delightful vegetarian option that satisfies your cravings and nourishes your soul.",
+      "Select": "Sandwich",
+      "Rating": "4.5",
+      "Cost": "399",
+      "Ingredients": "Sourdough bread, roasted bell peppers, grilled zucchini, grilled eggplant, fresh spinach, arugula, sun-dried tomatoes, basil pesto, mozzarella cheese, olive oil, salt, pepper"
+    },
+    {
+      "id": "29b4",
+      "Title": "Mushroom Cheese Melt Baguette Sandwich",
+      "File": "https://static01.nyt.com/images/2014/05/27/science/29recipehealth/29recipehealth-square640.jpg",
+      "Discription": "The Mushroom Cheese Melt Baguette Sandwich is a delightful combination of savory mushrooms, creamy melted cheese, and fresh baguette bread. Perfectly toasted to golden brown, this sandwich offers a satisfying crunch with every bite, complemented by the rich and earthy flavors of the mushrooms and the gooey, melted cheese. Ideal for a quick lunch or a delicious snack, this sandwich is a must-try for cheese and mushroom lovers alike.",
+      "Select": "Sandwich",
+      "Rating": "4.5",
+      "Cost": "359",
+      "Ingredients": "Baguette bread, mushrooms, cheese (cheddar or your choice), butter, garlic, salt, pepper, parsley"
+    },
+    {
+      "id": "ce9b",
+      "Title": "Brussels Waffle",
+      "File": "https://taste.co.za/wp-content/uploads/2023/04/Brussels-waffles.jpg",
+      "Discription": "Brussels Waffles are a classic Belgian treat known for their light, airy texture and crisp exterior. These waffles are typically rectangular, with deep pockets perfect for holding syrup, whipped cream, or fresh fruit. They are traditionally enjoyed as a breakfast or dessert item, offering a delightful combination of sweetness and crunch.",
+      "Select": "Waffles",
+      "Rating": "4.2",
+      "Cost": "340",
+      "Ingredients": "flour, sugar, baking powder, salt, eggs, milk, melted butter, vanilla extract, yeast"
+    },
+    {
+      "id": "7921",
+      "Title": "Belgium Waffle",
+      "File": "https://pastrieslikeapro.com/wp-content/uploads/2021/02/belgium-waffles.jpg",
+      "Discription": "Indulge in our classic Belgium Waffle, a delightful treat that's crispy on the outside and fluffy on the inside. Perfectly golden and served with a dusting of powdered sugar, it's an ideal breakfast or dessert option. Enjoy it with a drizzle of maple syrup, a dollop of whipped cream, and fresh berries for a burst of flavor in every bite.",
+      "Select": "Waffles",
+      "Rating": "4.6",
+      "Cost": "399",
+      "Ingredients": "Flour, sugar, baking powder, salt, milk, eggs, butter, vanilla extract"
+    },
+    {
+      "id": "074a",
+      "Title": "American Waffle",
+      "File": "https://s3-media0.fl.yelpcdn.com/bphoto/MujqBcnmnZiUPteWEfkb9A/348s.jpg",
+      "Discription": "Golden and crispy on the outside, soft and fluffy on the inside, our American Waffles are a delightful breakfast treat. Enjoy them with a drizzle of maple syrup, a pat of butter, or topped with your favorite fruits and whipped cream.",
+      "Select": "Waffles",
+      "Rating": "4.8",
+      "Cost": "399",
+      "Ingredients": "Flour, sugar, baking powder, salt, milk, eggs, butter, vanilla extract"
+    },
+    {
+      "id": "46c9",
+      "Title": "Toaster Waffle",
+      "File": "https://5.imimg.com/data5/SELLER/Default/2021/12/FR/AN/WJ/23635921/classic-toaster-waffles-500x500.jpg",
+      "Discription": "Our Toaster Waffle is a delightful breakfast treat that combines the classic crispy texture with a rich, buttery flavor. Perfectly golden and ready to pop in the toaster, these waffles are an easy and delicious way to start your day.",
+      "Select": "Waffles",
+      "Rating": "4.5",
+      "Cost": "359",
+      "Ingredients": "Enriched wheat flour, water, sugar, vegetable oil, eggs, leavening agents (baking soda, sodium aluminum phosphate), salt, artificial flavor, soy lecithin."
+    },
+    {
+      "id": "fbca",
+      "Title": " Hong Kong Egg Waffles",
+      "File": "https://chezlalonde.com/wp-content/uploads/2023/06/1200-X-1200-Chez-Lalonde-Hong-Kong-Style-Bubble-Waffle-feature-pic-1-1024x1024.jpg",
+      "Discription": "Savor the irresistible crunch and soft, chewy interior of our Hong Kong Egg Waffles. A beloved street snack transformed into a delightful treat at our coffee shop. Each waffle is meticulously crafted to perfection, ensuring a nostalgic taste of Hong Kong's bustling streets with every bite.",
+      "Select": "Waffles",
+      "Rating": "4.3",
+      "Cost": "359",
+      "Ingredients": "Eggs, flour, sugar, evaporated milk, butter, baking powder, vanilla extract"
+    },
+    {
+      "id": "11d1",
+      "Title": "Waffle Cone",
+      "File": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZFdrXalPoldrow5lQvzzji3HwdlHiWhshNQ&s",
+      "Discription": "Enjoy our freshly made Waffle Cone, crafted to perfection with a crispy, golden-brown texture that complements any scoop of ice cream.",
+      "Select": "Waffles",
+      "Rating": "4.2",
+      "Cost": "249",
+      "Ingredients": "Flour, sugar, eggs, butter, vanilla extract, salt"
+    },
+    {
+      "id": "84fc",
+      "Title": "Pizzelle",
+      "File": "https://4.bp.blogspot.com/-jj52T_6xTUc/WiT0lmY8nvI/AAAAAAAANOg/6347w7Mf9jM4guRXfOzqRa1eSE7rilfegCLcBGAs/s1600/PM%2BIMG_6423%2Bpizzelle.jpg",
+      "Discription": "Delicate and crisp, our traditional Pizzelle cookies are a beloved Italian treat perfect for any coffee break. These wafer-thin cookies are subtly sweet with hints of vanilla and an irresistible crunch.",
+      "Select": "Waffles",
+      "Rating": "4.5",
+      "Cost": "199",
+      "Ingredients": "Flour, eggs, sugar, butter, vanilla extract, baking powder"
+    },
+    {
+      "id": "22db",
+      "Title": "Stroopwafel",
+      "File": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5saE-175yWwAuPJwq9c8kUmFosS1n9d5g6A&s",
+      "Discription": "Enjoy the irresistible charm of our freshly baked Stroopwafel, a Dutch delicacy that combines a crispy, golden-brown exterior with a sweet, gooey caramel filling. Perfectly paired with a cup of our finest coffee, each bite offers a delightful blend of textures and flavors that will transport you to the streets of Amsterdam.",
+      "Select": "Waffles",
+      "Rating": "3.9",
+      "Cost": "299",
+      "Ingredients": "Flour, butter, brown sugar, yeast, milk, eggs, cinnamon, vanilla extract, salt, caramel syrup."
+    },
+    {
+      "id": "eecc",
+      "Title": "Seafood Sandwich",
+      "File": "https://recipes.net/wp-content/uploads/2023/07/seafood-sandwich_6f229348af0381b84f1df632e986ed20.jpeg",
+      "Discription": "Dive into the ocean of flavor with our Seafood Sandwich. Packed with fresh seafood goodness, this sandwich is a savory delight that will transport your taste buds seaside.",
+      "Select": "Sandwich",
+      "Rating": "4.6",
+      "Cost": "349",
+      "Ingredients": "Freshly baked artisan bread, shrimp, crab meat, mayonnaise, celery, lemon juice, salt, pepper."
+    },
+    {
+      "id": "d891",
+      "Title": "Roast Beef Sandwich",
+      "File": "https://www.billyparisi.com/wp-content/uploads/2018/05/roast-beef-sammy-1.jpg",
+      "Discription": "Enjoy our savory Roast Beef Sandwich, crafted to satisfy your cravings with every bite. Tender slices of seasoned roast beef nestled between soft, freshly baked bread, complemented by a medley of crisp vegetables and a hint of tangy sauce.",
+      "Select": "Sandwich",
+      "Rating": "4.6",
+      "Cost": "399",
+      "Ingredients": "Roast beef, bread (such as ciabatta or whole wheat), lettuce, tomato, red onion, pickles, mayonnaise, mustard"
+    },
+    {
+      "id": "3272",
+      "Title": "Ham Sandwich",
+      "File": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOVU62wNgYxEJdLwar64LoPwSJgWA2aLHOw&s",
+      "Discription": "Savor the classic combination of savory ham nestled between slices of fresh, crusty bread. Our Ham Sandwich is a delightful blend of simplicity and taste, perfect for any time of day.",
+      "Select": "Sandwich",
+      "Rating": "4.7",
+      "Cost": "349",
+      "Ingredients": "Ham, bread (such as ciabatta or whole wheat), lettuce, tomato, mayonnaise, mustard"
+    },
+    {
+      "Title": "Nutella Sandwich",
+      "File": "https://healthynibblesandbits.com/wp-content/uploads/2015/01/Grilled-Banana-Nutella-Sandwich-FF.jpg",
+      "Discription": "Indulge in a delightful blend of creamy Nutella spread between two slices of freshly toasted bread, creating the perfect balance of sweetness and satisfaction.",
+      "Select": "Sandwich",
+      "Rating": "4.8",
+      "Cost": "349",
+      "Ingredients": "Nutella spread, bread (white or whole wheat), butter.",
+      "id": "0103"
+    },
+    {
+      "id": "1f21",
+      "Title": "Grilled Chicken Sandwich",
+      "File": "https://recipes.net/wp-content/uploads/2023/05/grilled-chicken-sandwich-recipe_ebd0403939d98e157fea1bd85a8c557d.jpeg",
+      "Discription": "Savor the delicious blend of tender grilled chicken, fresh vegetables, and zesty sauces nestled between two slices of artisanal whole-grain bread. Our Grilled Chicken Sandwich is a wholesome choice that satisfies with every bite.",
+      "Select": "Sandwich",
+      "Rating": "4.5",
+      "Cost": "399",
+      "Ingredients": "Grilled chicken breast, whole-grain bread, lettuce, tomato, red onion, avocado, mayonnaise, mustard, salt, pepper"
+    }
+  ],
+  "registers": [
+    {
+      "id": "0c5d",
+      "username": "Naruto uzumaki",
+      "phoneNumber": "7075012388",
+      "password": "Naruto@134",
+      "email": "narutouzumaki@protonmail.com"
+    },
+    {
+      "id": "81ff",
+      "username": "Hinata",
+      "phoneNumber": "7075013452",
+      "email": "hinata@protonmail.com",
+      "password": "Hinata@134"
+    },
+    {
+      "id": "0b3b",
+      "username": "Sasuke",
+      "phoneNumber": "7075013452",
+      "email": "sasukeuchiha@yahoo.com",
+      "password": "Sasuke@45"
+    },
+    {
+      "id": "5828",
+      "username": "Ravi",
+      "phoneNumber": "9933542365",
+      "email": "raviraj234@mail.com",
+      "password": "vsKEY-b^7#M4nyk"
+    },
+    {
+      "id": "a568",
+      "username": "Lokesh",
+      "phoneNumber": "9012345678",
+      "password": "onepiece",
+      "email": "luffy@onepiece.com"
+    },
+    {
+      "id": "26ad",
+      "username": "Hanuman",
+      "phoneNumber": "9090123456",
+      "email": "hanumafire@lanka.com",
+      "password": "Rambhakth"
+    },
+    {
+      "id": "f612",
+      "username": "Mahesh",
+      "phoneNumber": "8856985674",
+      "password": "Madmax",
+      "email": "maxmad23@gmail.com"
+    },
+    {
+      "id": "28a9",
+      "username": "Rakesh",
+      "phoneNumber": "9954785455",
+      "password": "asdfghjkl",
+      "email": "raki@gmail.in"
+    },
+    {
+      "id": "2afd",
+      "username": "Pavan",
+      "phoneNumber": "7758456922",
+      "password": "pavan@567",
+      "email": "pavanpk@gmail.com"
+    },
+    {
+      "id": "e1bb",
+      "username": "Avinash",
+      "phoneNumber": "7080936251",
+      "email": "avinash543@gmail.com",
+      "password": "Avinash"
+    },
+    {
+      "id": "06a4",
+      "username": "Raviraj",
+      "phoneNumber": "7788778877",
+      "email": "amlogan6@gmail.com",
+      "password": "qwertyuiop"
+    },
+    {
+      "id": "1cbf",
+      "username": "himawari",
+      "phoneNumber": "7075012345",
+      "email": "himawari133@gmail.com",
+      "password": "qwerty"
+    },
+    {
+      "id": "a4dc",
+      "username": "Naruto",
+      "phoneNumber": "7075012345",
+      "email": "narutouzumaki@protonmail.com",
+      "password": "asdfgq"
+    },
+    {
+      "id": "afdb",
+      "username": "Micky Mouse",
+      "phoneNumber": "9988778899",
+      "password": "mickymouse",
+      "email": "micky@gmail.com"
+    },
+    {
+      "id": "0c5d",
+      "username": "Naruto",
+      "phoneNumber": "7075012345",
+      "email": "narutouzumaki@protonmail.com",
+      "password": "Naruto@134"
+    },
+    {
+      "id": "81ff",
+      "username": "Hinata",
+      "phoneNumber": "7075013452",
+      "email": "hinata@protonmail.com",
+      "password": "Hinata@134"
+    },
+    {
+      "id": "0b3b",
+      "username": "Sasuke",
+      "phoneNumber": "7075013452",
+      "email": "sasukeuchiha@yahoo.com",
+      "password": "Sasuke@45"
+    },
+    {
+      "id": "5828",
+      "username": "Ravi",
+      "phoneNumber": "9933542365",
+      "email": "raviraj234@mail.com",
+      "password": "vsKEY-b^7#M4nyk"
+    },
+    {
+      "id": "a568",
+      "username": "Luffy",
+      "phoneNumber": "9012345678",
+      "email": "luffy@onepiece.com",
+      "password": "onepiece"
+    },
+    {
+      "id": "26ad",
+      "username": "Hanuman",
+      "phoneNumber": "9090123456",
+      "email": "hanumafire@lanka.com",
+      "password": "Rambhakth"
+    },
+    {
+      "id": "f612",
+      "username": "Mahesh",
+      "phoneNumber": "8856985674",
+      "password": "Madmax",
+      "email": "maxmad23@gmail.com"
+    },
+    {
+      "id": "28a9",
+      "username": "Rakesh",
+      "phoneNumber": "9954785455",
+      "password": "asdfghjkl",
+      "email": "raki@gmail.in"
+    },
+    {
+      "id": "2afd",
+      "username": "Pavan",
+      "phoneNumber": "7758456922",
+      "password": "pavan@567",
+      "email": "pavanpk@gmail.com"
+    },
+    {
+      "id": "e1bb",
+      "username": "Avinash",
+      "phoneNumber": "7080936251",
+      "email": "avinash543@gmail.com",
+      "password": "Avinash"
+    },
+    {
+      "id": "06a4",
+      "username": "Raviraj",
+      "phoneNumber": "7788778877",
+      "email": "amlogan6@gmail.com",
+      "password": "qwertyuiop"
+    },
+    {
+      "id": "1cbf",
+      "username": "himawari",
+      "phoneNumber": "7075012345",
+      "email": "himawari133@gmail.com",
+      "password": "qwerty"
+    },
+    {
+      "id": "a4dc",
+      "username": "Naruto",
+      "phoneNumber": "7075012345",
+      "email": "narutouzumaki@protonmail.com",
+      "password": "asdfgq"
+    },
+    {
+      "id": "afdb",
+      "username": "Micky Mouse",
+      "phoneNumber": "9988778899",
+      "password": "mickymouse",
+      "email": "micky@gmail.com"
+    },
+    {
+      "id": "0c5d",
+      "username": "Naruto",
+      "phoneNumber": "7075012345",
+      "email": "narutouzumaki@protonmail.com",
+      "password": "Naruto@134"
+    },
+    {
+      "id": "81ff",
+      "username": "Hinata",
+      "phoneNumber": "7075013452",
+      "email": "hinata@protonmail.com",
+      "password": "Hinata@134"
+    },
+    {
+      "id": "0b3b",
+      "username": "Sasuke",
+      "phoneNumber": "7075013452",
+      "email": "sasukeuchiha@yahoo.com",
+      "password": "Sasuke@45"
+    },
+    {
+      "id": "5828",
+      "username": "Ravi",
+      "phoneNumber": "9933542365",
+      "email": "raviraj234@mail.com",
+      "password": "vsKEY-b^7#M4nyk"
+    },
+    {
+      "id": "a568",
+      "username": "Luffy",
+      "phoneNumber": "9012345678",
+      "email": "luffy@onepiece.com",
+      "password": "onepiece"
+    },
+    {
+      "id": "26ad",
+      "username": "Hanuman",
+      "phoneNumber": "9090123456",
+      "email": "hanumafire@lanka.com",
+      "password": "Rambhakth"
+    },
+    {
+      "id": "f612",
+      "username": "Mahesh",
+      "phoneNumber": "8856985674",
+      "password": "Madmax",
+      "email": "maxmad23@gmail.com"
+    },
+    {
+      "id": "28a9",
+      "username": "Rakesh",
+      "phoneNumber": "9954785455",
+      "password": "asdfghjkl",
+      "email": "raki@gmail.in"
+    },
+    {
+      "id": "2afd",
+      "username": "Pavan",
+      "phoneNumber": "7758456922",
+      "password": "pavan@567",
+      "email": "pavanpk@gmail.com"
+    },
+    {
+      "id": "e1bb",
+      "username": "Avinash",
+      "phoneNumber": "7080936251",
+      "email": "avinash543@gmail.com",
+      "password": "Avinash"
+    },
+    {
+      "id": "5499",
+      "username": "Ravi",
+      "phoneNumber": "9987787878",
+      "email": "ravi234@gadf.in",
+      "password": "qwertyu"
+    },
+    {
+      "id": "06a4",
+      "username": "Raviraj",
+      "phoneNumber": "7788778877",
+      "email": "amlogan6@gmail.com",
+      "password": "qwertyuiop"
+    },
+    {
+      "id": "1cbf",
+      "username": "himawari",
+      "phoneNumber": "7075012345",
+      "email": "himawari133@gmail.com",
+      "password": "qwerty"
+    },
+    {
+      "id": "a4dc",
+      "username": "Naruto",
+      "phoneNumber": "7075012345",
+      "email": "narutouzumaki@protonmail.com",
+      "password": "asdfgq"
+    },
+    {
+      "id": "afdb",
+      "username": "Micky Mouse",
+      "phoneNumber": "9988778899",
+      "password": "mickymouse",
+      "email": "micky@gmail.com"
+    },
+    {
+      "id": "0c5d",
+      "username": "Naruto",
+      "phoneNumber": "7075012345",
+      "email": "narutouzumaki@protonmail.com",
+      "password": "Naruto@134"
+    },
+    {
+      "id": "81ff",
+      "username": "Hinata",
+      "phoneNumber": "7075013452",
+      "email": "hinata@protonmail.com",
+      "password": "Hinata@134"
+    },
+    {
+      "id": "0b3b",
+      "username": "Sasuke",
+      "phoneNumber": "7075013452",
+      "email": "sasukeuchiha@yahoo.com",
+      "password": "Sasuke@45"
+    },
+    {
+      "id": "5828",
+      "username": "Ravi",
+      "phoneNumber": "9933542365",
+      "email": "raviraj234@mail.com",
+      "password": "vsKEY-b^7#M4nyk"
+    },
+    {
+      "id": "a568",
+      "username": "Luffy",
+      "phoneNumber": "9012345678",
+      "email": "luffy@onepiece.com",
+      "password": "onepiece"
+    },
+    {
+      "id": "26ad",
+      "username": "Hanuman",
+      "phoneNumber": "9090123456",
+      "email": "hanumafire@lanka.com",
+      "password": "Rambhakth"
+    },
+    {
+      "id": "f612",
+      "username": "Mahesh",
+      "phoneNumber": "8856985674",
+      "password": "Madmax",
+      "email": "maxmad23@gmail.com"
+    },
+    {
+      "id": "28a9",
+      "username": "Rakesh",
+      "phoneNumber": "9954785455",
+      "password": "asdfghjkl",
+      "email": "raki@gmail.in"
+    },
+    {
+      "id": "2afd",
+      "username": "Pavan",
+      "phoneNumber": "7758456922",
+      "password": "pavan@567",
+      "email": "pavanpk@gmail.com"
+    },
+    {
+      "id": "e1bb",
+      "username": "Avinash",
+      "phoneNumber": "7080936251",
+      "email": "avinash543@gmail.com",
+      "password": "Avinash"
+    },
+    {
+      "id": "5499",
+      "username": "Ravi",
+      "phoneNumber": "9987787878",
+      "email": "ravi234@gadf.in",
+      "password": "qwertyu"
+    },
+    {
+      "id": "06a4",
+      "username": "Raviraj",
+      "phoneNumber": "7788778877",
+      "email": "amlogan6@gmail.com",
+      "password": "qwertyuiop"
+    },
+    {
+      "id": "1cbf",
+      "username": "himawari",
+      "phoneNumber": "7075012345",
+      "email": "himawari133@gmail.com",
+      "password": "qwerty"
+    },
+    {
+      "id": "a4dc",
+      "username": "Naruto",
+      "phoneNumber": "7075012345",
+      "email": "narutouzumaki@protonmail.com",
+      "password": "asdfgq"
+    },
+    {
+      "id": "afdb",
+      "username": "Micky Mouse",
+      "phoneNumber": "9988778899",
+      "password": "mickymouse",
+      "email": "micky@gmail.com"
+    },
+    {
+      "id": "5e3d",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "password": "1234567890",
+      "email": "mahesh123@gmail.com"
+    },
+    {
+      "id": "9dc8",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "email": "amlogan6@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "89a0",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "email": "amlogan6@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "2bbb",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "email": "amlogan6@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "91fe",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "email": "amlogan6@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "deed",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "email": "amlogan6@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "9ac5",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "email": "amlogan6@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "a6d5",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "email": "amlogan6@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "6bb4",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "email": "amlogan6@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "7c76",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "email": "amlogan6@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "7e8e",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "email": "amlogan6@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "0430",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "email": "amlogan6@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "27de",
+      "username": "Dhoni",
+      "phoneNumber": "8877777777",
+      "email": "dhoni7@gmail.om",
+      "password": "777777"
+    },
+    {
+      "id": "0f20",
+      "username": "virat",
+      "phoneNumber": "7789654125",
+      "email": "vk2345@gmqil.com",
+      "password": "12345678"
+    },
+    {
+      "id": "d62a",
+      "username": "Mahesh",
+      "phoneNumber": "9988778898",
+      "email": "mahesh123@protonmail.com",
+      "password": "123455"
+    }
+  ],
+  "Blog": [
+    {
+      "id": "4bd1",
+      "Title": "Bringing the Café to Your Doorstep",
+      "Image": "https://images.squarespace-cdn.com/content/v1/580b72b62e69cff5c804687c/1496585854810-MB30VHNM4GL4EVKPI4IM/coffee+blog.jpg?format=2500w",
+      "DateandTime": "2024-07-04",
+      "WriterName": "- Jiraya",
+      "Content": "In today’s fast-paced world, convenience has become a cornerstone of modern living. One of the latest trends catering to our need for efficiency without compromising on quality is coffee delivery services. Imagine waking up to the aroma of freshly brewed coffee without even stepping out of your home. That’s exactly what coffee delivery offers – bringing the café experience right to your doorstep.\n\nWhy Coffee Delivery?\n\nThe allure of coffee delivery lies in its simplicity and the promise of high-quality, freshly roasted beans delivered directly to you. Whether you’re a busy professional, a stay-at-home parent, or simply someone who loves a good cup of coffee, this service is designed to make your life easier and your mornings brighter. No more rushing to the café or settling for mediocre instant coffee at home.\n\nQuality and Freshness\n\nOne of the primary concerns for coffee enthusiasts is the freshness of their brew. With a coffee delivery service, you can rest assured that you’re getting the best. Many services roast their beans to order, ensuring that your coffee arrives at its peak flavor. This means you can enjoy a café-quality cup of coffee without any compromise.\n\nVariety at Your Fingertips\n\nCoffee delivery services often provide a wide range of options, from single-origin beans to unique blends, catering to diverse tastes and preferences. You can experiment with different flavors and roast levels, discovering new favorites along the way. Some services even offer subscriptions, so you can explore a new coffee every month.\n\nSustainability and Ethical Sourcing\n\nMany coffee delivery companies are committed to ethical sourcing and sustainability. By supporting these services, you’re not only enjoying a great cup of coffee but also contributing to fair trade practices and environmental sustainability. It’s a win-win for you and the planet."
+    },
+    {
+      "id": "baea",
+      "Title": "Perk Up Your Mornings",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_rwBGBLLtLGVuNHJMl3a5X4KyxUTNnPFDbQ&s",
+      "DateandTime": "2024-07-08",
+      "WriterName": "- Hinata",
+      "Content": "Mornings – they set the tone for our entire day. Whether you’re an early riser or someone who hits the snooze button a few times, one thing can universally elevate your morning routine: a perfect cup of coffee. At [Your Coffee Delivery Service], we understand the importance of starting your day right, which is why we’ve curated a coffee experience that brings the café to your doorstep.\n\nImagine waking up to the rich aroma of freshly brewed coffee, crafted just the way you like it. With our coffee delivery service, that dream becomes your reality. We source only the finest beans from around the world, ensuring that each sip of coffee delivers a moment of pure bliss. Whether you prefer a bold espresso to kickstart your day or a smooth latte for a more relaxed morning, our diverse range of blends and flavors caters to every palate.\n\nWhat sets Coffee street apart is our commitment to quality and convenience. No longer do you need to rush out the door to grab your favorite brew. Simply place your order online, and we’ll deliver it straight to you. Our subscription options make it even easier to enjoy your favorite coffee consistently, without the hassle of reordering."
+    },
+    {
+      "id": "4eca",
+      "Title": "From Bean to Brew",
+      "Image": "https://www.slaycoffee.in/cdn/shop/articles/Arabica_Coffee_Powder_1.png?v=1687843472&width=1100",
+      "DateandTime": "2024-07-08",
+      "WriterName": "- Sakura",
+      "Content": "Have you ever wondered about the journey your morning coffee takes before it reaches your cup? At Coffee street, we believe that understanding this journey enhances your appreciation for every sip. Let's take a peek behind the scenes—from bean to brew.\n\n1. Sourcing the Finest Beans:\nIt all begins with the selection of high-quality coffee beans. We work closely with coffee farmers from renowned regions across the globe, ensuring that every bean meets our rigorous standards for taste, aroma, and sustainability. This commitment not only guarantees exceptional flavor but also supports ethical farming practices.\n\n2. Expert Roasting Process:\nOnce the beans arrive at our roastery, our expert roasters take over. Roasting is a delicate art that transforms raw green beans into the aromatic wonders we love. Each batch is carefully roasted to bring out unique flavors and profiles, whether it's a rich dark roast or a smooth medium blend. Our roasters blend science with passion to ensure consistency and quality in every batch.\n\n3. Precision Grinding for Freshness:\nTo preserve the beans' freshness and flavor, we grind them just before packaging. Grinding coffee exposes more surface area to oxygen, which can quickly degrade its quality. By grinding on demand, we ensure that every cup maintains the fullness of its flavor profile, whether it's brewed in a drip machine or a French press.\n\n4. Delivering Perfection to Your Doorstep:\nFinally, your perfect cup of coffee is packaged with care and delivered directly to your doorstep. Our commitment to quality extends beyond the roast—it's about delivering an experience that elevates your mornings. Whether you prefer single-origin beans, flavored blends, or delectable espresso options, our diverse selection ensures there's something to suit every palate."
+    },
+    {
+      "id": "e61f",
+      "Title": "Coffee Lovers Rejoice",
+      "Image": "https://thetaste.ie/wp-content/uploads/2017/05/Cork-Coffee-4-e1496406754842.jpg",
+      "DateandTime": "2024-07-09",
+      "WriterName": "- Naruto",
+      "Content": "For coffee enthusiasts, there's nothing quite like that first sip of a perfectly brewed cup to kickstart the day. Imagine waking up to the aroma of freshly roasted beans, ready to be savored in the comfort of your own home. At [Your Coffee Delivery Service], we understand the joy that a great cup of coffee brings, which is why we're thrilled to introduce our convenient coffee delivery service.\n\nThe Convenience You Crave\n\nGone are the days of rushing out the door to grab your morning brew. With our coffee delivery service, your favorite blends and roasts are just a few clicks away. Whether you prefer a bold espresso to jumpstart your day or a smooth, creamy latte to unwind in the evening, we've got you covered. Simply place your order online, and we'll take care of the rest, ensuring your coffee arrives fresh and ready to brew.\n\nQuality That Excites\n\nQuality is at the heart of everything we do. From sourcing the finest beans to meticulous roasting and packaging, we prioritize excellence in every cup. Our commitment to quality extends beyond taste to include sustainability practices that support the communities and environments where our coffee is grown.\n\nExplore Our Variety\n\nDiscovering new flavors and blends is part of the fun of being a coffee aficionado. With our diverse selection of coffees from around the world, you can explore different origins, roast levels, and brewing methods to find your perfect match. Whether you're a seasoned connoisseur or just beginning your coffee journey, our curated selection ensures there's something for everyone.\n\nJoin the Coffee Revolution\n\nJoin us in celebrating the art of coffee. With [Your Coffee Delivery Service], you're not just ordering coffee—you're embracing a lifestyle that values quality, convenience, and community. Each cup supports a passion for exceptional coffee experiences, making every morning a reason to rejoice.\n\nExperience the Difference\n\nReady to elevate your coffee experience? Visit [Your Coffee Delivery Service] today and see why coffee lovers everywhere are choosing us for their daily brew. Treat yourself to the luxury of freshly delivered coffee and rediscover what it means to savor every sip. Because when it comes to coffee, why settle for anything less than extraordinary?"
+    },
+    {
+      "id": "e8d5",
+      "Title": "Convenience Meets Quality",
+      "Image": "https://i.ndtvimg.com/i/2016-10/coffee_620x350_71477394783.jpg",
+      "DateandTime": "2024-07-09",
+      "WriterName": "- Jiraya",
+      "Content": "In today's fast-paced world, convenience is often a top priority when it comes to our daily routines. Whether it's ordering groceries online or streaming our favorite shows, the modern consumer values services that save time and effort without compromising on quality. This demand for convenience has extended into the realm of coffee consumption, where discerning coffee lovers seek a blend of exceptional taste and hassle-free delivery options.\n\nAt [Your Coffee Delivery Service], we understand the importance of starting your day with a perfect cup of coffee. That's why we've curated a selection of premium coffees from around the world, each chosen for its unique flavor profile and quality. From the rich, bold notes of South American blends to the delicate aromas of Ethiopian beans, our offerings cater to every palate and preference.\n\nOur commitment to quality extends beyond the beans themselves. We partner with ethical suppliers who prioritize sustainable farming practices, ensuring that each coffee bean is grown and harvested with care for the environment and the communities involved. This dedication to sustainability not only enhances the flavor of our coffee but also supports a more responsible coffee industry.\n\nWhat truly sets us apart, however, is our dedication to convenience. With just a few clicks, you can explore our diverse range of coffees, select your favorites, and have them delivered directly to your doorstep. Whether you prefer whole beans for that freshly ground aroma or pre-ground coffee for quick brewing, we accommodate your preferences to ensure a seamless coffee experience.\n\nImagine waking up to the aroma of freshly brewed coffee, knowing that your favorite blend is just moments away. With [Your Coffee Delivery Service], convenience meets quality in every sip, transforming your daily coffee ritual into a moment of pure satisfaction. Join us in redefining your coffee experience — where exceptional taste and convenience converge effortlessly.\n"
+    },
+    {
+      "id": "9f90",
+      "Title": "Brewed Fresh, Delivered Fast",
+      "Image": "https://fathomcoffee.com/wp-content/uploads/2022/04/Fathom-Coffee-Virginia-Beach-Pouring-Coffee.jpg",
+      "DateandTime": "2024-07-09",
+      "WriterName": "- Minato",
+      "Content": "There's something truly magical about the aroma of freshly brewed coffee, isn't there? At coffee street, we understand that feeling. That's why we've made it our mission to bring that experience right to your doorstep, ensuring you can enjoy premium coffee without leaving the comfort of your home.\n\nThe Promise of Freshness\n\nImagine waking up to the rich, enticing scent of your favorite coffee blend. With our coffee delivery service, that dream becomes a daily reality. We source only the finest beans from around the world and roast them to perfection to capture their unique flavors. Every batch is carefully curated to guarantee freshness and quality, ensuring that your morning cup is nothing short of exceptional.\n\nConvenience at Your Fingertips\n\nLife moves fast, and we believe your coffee should keep pace. Our delivery service is designed with your convenience in mind. Simply choose your preferred coffee varieties and brewing styles, and let us handle the rest. Whether it's single-origin beans for the purist or artisanal blends for the adventurous, our diverse selection caters to every palate.\n\nFrom Our Roastery to Your Doorstep\n\nFrom the moment your order is placed, our team springs into action. Our state-of-the-art roastery ensures that each batch is roasted fresh and promptly packed for delivery. We prioritize efficiency without compromising on quality, so you can indulge in the perfect cup of coffee whenever you desire.\n\nJoin Our Community\n\nMore than just a delivery service, [Your Coffee Delivery Service] is a community of coffee enthusiasts dedicated to sharing their passion for exceptional brews. Follow our blog for brewing tips, coffee recipes, and stories from coffee lovers like yourself. Join us on this journey as we redefine the way you experience coffee.\n\nExperience the Difference\n\nReady to elevate your coffee routine? Discover the convenience and quality of [Your Coffee Delivery Service]. Whether you're starting your day or taking a moment to unwind, our commitment to freshness ensures that every sip is a delight. Embrace the aroma, savor the flavor, and enjoy coffee brewed fresh and delivered fast."
+    },
+    {
+      "id": "d5aa",
+      "Title": "Coffee on Demand",
+      "Image": "https://nmgprod.s3.amazonaws.com/media/files/7d/5e/7d5e45831fa03bab2420a6d170bc4a7a/cover_image_1660343538.jpg.760x400_q85_crop_upscale.jpg",
+      "DateandTime": "2024-07-09",
+      "WriterName": "- Luffy",
+      "Content": "In today's fast-paced world, convenience is key—and what could be more convenient than having your favorite coffee delivered right to your doorstep? At [Your Coffee Delivery Service], we understand the importance of starting your day with a perfect cup of coffee, tailored to your preferences and delivered with care.\n\nImagine waking up to the aroma of freshly brewed coffee, prepared exactly the way you like it. With our coffee delivery service, this dream can be a reality. Whether you prefer a bold espresso to kickstart your morning or a creamy latte to unwind in the evening, we've got you covered.\n\nOur commitment to quality extends from the beans we source to the moment your coffee arrives. We partner with local roasters who share our passion for exceptional coffee, ensuring that every sip is rich in flavor and crafted with expertise. Each batch is roasted to perfection, guaranteeing freshness and consistency in every cup.\n\nBut convenience doesn't stop at great coffee. With our easy-to-use online platform, ordering your favorite brew is simple and hassle-free. Choose from a variety of blends and flavors, customize your order to suit your taste preferences, and select a delivery schedule that fits seamlessly into your routine. Whether you're a single coffee enthusiast or looking to stock up for the office, our flexible subscription plans make it easy to enjoy coffee on your terms.\n\nJoin the growing community of coffee lovers who have embraced the ease and pleasure of coffee delivery. Experience the joy of waking up to a steaming cup of your favorite brew without ever leaving your home. With [Your Coffee Delivery Service], coffee on demand isn't just a luxury—it's a daily indulgence that enhances your life one cup at a time.\n\nReady to elevate your coffee experience? Explore our menu, place your order, and discover why coffee on demand is the ultimate way to savor every moment."
+    },
+    {
+      "id": "8c64",
+      "Title": "Elevate Your Coffee Game",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHRoSzEuRwYGeroaYQukkqtv2ZL-kzf5pRAQ&s",
+      "DateandTime": "2024-07-08",
+      "WriterName": "- Zoro",
+      "Content": "In a world where coffee is more than just a morning pick-me-up, it's a lifestyle. It's about savoring the rich aroma, delighting in the nuanced flavors, and experiencing that perfect balance of boldness and smoothness with every sip. If you're ready to take your coffee experience to the next level, look no further than our coffee delivery service.\n\nQuality, Convenience, and Choice\n\nImagine waking up to the aroma of freshly brewed coffee right at your doorstep. With our coffee delivery service, that dream becomes a reality. We source only the finest beans, carefully selected from renowned coffee regions around the world. Whether you prefer a single-origin Ethiopian roast with fruity undertones or a dark, robust blend from South America, we have something to tantalize every palate.\n\nExpertly Curated Selections\n\nOur passion for coffee extends beyond just delivering beans. We take pride in curating a diverse selection of blends and flavors, ensuring there's something for everyone. From espresso lovers craving a bold punch to those who prefer a smooth, creamy latte, our menu caters to all tastes and preferences.\n\nSustainability and Freshness Guaranteed\n\nBeyond quality and variety, we prioritize sustainability. Our commitment to eco-friendly practices ensures that every cup of coffee you enjoy leaves a minimal footprint on the planet. Each batch is roasted to perfection shortly before delivery, guaranteeing maximum freshness and flavor in every bag.\n\nJoin the Coffee Revolution\n\nJoin us in elevating your coffee game. Whether you're a seasoned coffee aficionado or just beginning your journey into the world of specialty coffee, our delivery service promises to enrich your daily ritual. Experience the convenience of having premium coffee delivered to your door and discover why more people are choosing to indulge in a superior coffee experience at home.\n\nElevate your mornings, elevate your afternoons—elevate your coffee game with us."
+    }
+  ],
+  "contactUs": [
+    {
+      "id": "8082",
+      "Name": "naruto",
+      "Email": "naruto@yahoo.com",
+      "Phonenumber": "9900876543",
+      "Message": "Problem with delivery person"
+    },
+    {
+      "id": "14b3",
+      "Name": "Sasuke",
+      "Email": "sasuke@yahoo.com",
+      "Phonenumber": "9123456543",
+      "Message": "Problem with delivery "
+    },
+    {
+      "id": "4694",
+      "Name": "Hemanth",
+      "Email": "hemanth@yahoo.com",
+      "Phonenumber": "7078907654",
+      "Message": "Transacation failed but money debited"
+    },
+    {
+      "id": "51bd",
+      "Name": "Ravi",
+      "Email": "ravi@gmil.com",
+      "Phonenumber": "7788778877",
+      "Message": "Issue with delivery person"
+    }
+  ]
+}
